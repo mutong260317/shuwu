@@ -1,0 +1,14 @@
+{
+  "name": "数物 · 日均成本与过期提醒",
+  "short_name": "数物",
+  "description": "个人物品资产记录：日均成本、次均成本、过期提醒全家桶。本地存储，仅供自用。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F5F0",
+  "theme_color": "#101210",
+  "icons": [
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
